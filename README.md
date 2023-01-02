@@ -17,8 +17,8 @@ Playlist will save first before exiting.
 
 
 Contributors:  <br>
-[Kevin Sho](kevinsho@1utar.my) <br>
-[Jacqueline Lai](jacquelinelai33@1utar.my) <br>
-[Lam Chun Hong](chunhonglam821591@1utar.my) <br>
-[Joanne Lee](joanne0611@1utar.my) <br>
+[Kevin Sho](mailto:kevinsho@1utar.my) <br>
+[Jacqueline Lai](mailto:jacquelinelai33@1utar.my) <br>
+[Lam Chun Hong](mailto:chunhonglam821591@1utar.my) <br>
+[Joanne Lee](mailto:joanne0611@1utar.my) <br>
 
