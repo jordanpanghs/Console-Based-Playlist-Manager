@@ -1,0 +1,90 @@
+Song Title,Album,Artist,Composer,Genre,Release Date,Directory Path
+Eraser,Divide,Ed Sheeran,Ed Sheeran,Pop,3/3/2017,C:\Users\COLLECTION\eraser.mp3
+Castle on the Hill,Divide,Ed Sheeran,Ed Sheeran,Pop,6/1/2017,C:\Users\COLLECTION\castleonthehill.mp3
+Dive,Divide,Ed Sheeran,Ed Sheeran,Memphis Soul,3/3/2017,C:\Users\COLLECTION\dive.mp3
+Shape of You,Divide,Ed Sheeran,Ed Sheeran,Pop,6/1/2017,C:\Users\COLLECTION\shapeofyou.mp3
+Perfect,Divide,Ed Sheeran,Ed Sheeran,Pop,26/9/2017,C:\Users\COLLECTION\perfect.mp3
+Galway Girl,Divide,Ed Sheeran,Ed Sheeran,Pop,17/3/2017,C:\Users\COLLECTION\galwaygirl.mp3
+Happier,Divide,Ed Sheeran,Ed Sheeran,Pop,27/4/2018,C:\Users\COLLECTION\happier.mp3
+New Man,Divide,Ed Sheeran,Ed Sheeran,R&B,3/3/2017,C:\Users\COLLECTION\newman.mp3
+Hearts Don't Break Around Here,Divide,Ed Sheeran,Ed Sheeran,Pop,3/3/2017,C:\Users\COLLECTION\heartsdontbreak.mp3
+What Do I Know,Divide,Ed Sheeran,Ed Sheeran,R&B,3/3/2017,C:\Users\COLLECTION\newman.mp3
+How Would You Feel,Divide,Ed Sheeran,Ed Sheeran,Blue Eyed Soul,17/2/2017,C:\Users\COLLECTION\howwouldyoufeel.mp3
+Supermarket Flowers,Divide,Ed Sheeran,Ed Sheeran,Pop,3/3/2017,C:\Users\COLLECTION\supermarketflowers.mp3
+The 1,Folklore,Taylor Swift,Taylor Swift,Indie Pop,9/10/2020,C:\Users\COLLECTION\the1.mp3
+Cardigan,Folklore,Taylor Swift,Taylor Swift,Indie Pop,27/7/2020,C:\Users\COLLECTION\cardigan.mp3
+The Last Great American Dynasty,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\americandynasty.mp3
+Exile,Folklore,Taylor Swift,Taylor Swift,Indie Pop,3/8/2020,C:\Users\COLLECTION\exile.mp3
+My Tears Ricochet,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\mytearsricochet.mp3
+Mirrorball,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\mirrorball.mp3
+Seven,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\seven.mp3
+August,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\august.mp3
+This Is Me Trying,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\thisismetrying.mp3
+Illicit Affairs,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\illicitaffairs.mp3
+Invisible String,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\invisiblestring.mp3
+Mad Woman,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\madwoman.mp3
+Epiphany,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\epiphany.mp3
+Betty,Folklore,Taylor Swift,Taylor Swift,Country,17/8/2020,C:\Users\COLLECTION\betty.mp3
+Peace,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\peace.mp3
+Hoax,Folklore,Taylor Swift,Taylor Swift,Indie Pop,24/7/2020,C:\Users\COLLECTION\hoax.mp3
+Survival,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\survival.mp3
+Nonstop,Scorpion,Drake,Aubrey Graham,Hip Hop,31/7/2018,C:\Users\COLLECTION\nonstop.mp3
+Elevate,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\elevate.mp3 
+Emotionless,Scorpion,Drake,Aubrey Graham,Hip Hop,29/6/2018,C:\Users\COLLECTION\emotionless.mp3
+God's Plan,Scorpion,Drake,Aubrey Graham,Hip Hop,19/1/2018,C:\Users\COLLECTION\godsplan.mp3
+I'm Upset,Scorpion,Drake,Aubrey Graham,Hip Hop,26/5/2018,C:\Users\COLLECTION\imupset.mp3
+8 Out of 10,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\8outof10.mp3
+Mob Ties,Scorpion,Drake,Aubrey Graham,Hip Hop,6/1/2019,C:\Users\COLLECTION\mobties.mp3
+Can't Take a Joke,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\canttellajoke.mp3
+Talk Up,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\talkup.mp3
+Is There More,Scorpion,Drake,Aubrey Graham,Hip Hop,27/7/2018,C:\Users\COLLECTION\istheremore.mp3
+The Reaper,World War Joy,The Chainsmokers,Andrew Taggart,EDM,6/12/2019,C:\Users\COLLECTION\thereaper.mp3
+Family,World War Joy,The Chainsmokers,Andrew Taggart,EDM,6/12/2019,C:\Users\COLLECTION\family.mp3
+See The Way,World War Joy,The Chainsmokers,Andrew Taggart,EDM,6/12/2019,C:\Users\COLLECTION\seetheway.mp3
+PS I Hope You're Happy,World War Joy,The Chainsmokers,Alex Pall,EDM,6/12/2019,C:\Users\COLLECTION\psihopeyourehappy.mp3
+Push My Luck,World War Joy,The Chainsmokers,Andrew Taggart,EDM,8/11/2019,C:\Users\COLLECTION\pushmyluck.mp3
+Takeaway,World War Joy,The Chainsmokers,Andrew Taggart,EDM,8/11/2019,C:\Users\COLLECTION\takeaway.mp3
+Call You Mine,World War Joy,The Chainsmokers,Andrew Taggart,Electropop,31/5/2019,C:\Users\COLLECTION\callyoumine.mp3
+Do You Mean,World War Joy,The Chainsmokers,Andrew Taggart,EDM,26/4/2019,C:\Users\COLLECTION\doyoumean.mp3
+Kills You Slowly,World War Joy,The Chainsmokers,Andrew Taggart,EDM,11/4/2019,C:\Users\COLLECTION\killsyouslowly.mp3
+Who Do You Love,World War Joy,The Chainsmokers,Andrew Taggart,EDM,7/2/2019,C:\Users\COLLECTION\whodoyoulove.mp3
+Wild,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,3/9/2015,C:\Users\COLLECTION\wild.mp3
+Fools,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,15/9/2015,C:\Users\COLLECTION\fools.mp3
+Ease,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,17/9/2015,C:\Users\COLLECTION\ease.mp3
+Talk Me Down,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,21/10/2015,C:\Users\COLLECTION\talkmedown.mp3
+Cool,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,6/12/2015,C:\Users\COLLECTION\cool.mp3
+Heaven,Blue Neighbourhood,Troye Sivan,Troye Sivan,Pop,15/10/2015,C:\Users\COLLECTION\heaven.mp3
+Youth,Blue Neighbourhood,Troye Sivan,Troye Sivan,Pop,13/11/2015,C:\Users\COLLECTION\youth.mp3
+Lost Boy,Blue Neighbourhood,Troye Sivan,Troye Sivan,Pop,13/11/2015,C:\Users\COLLECTION\lostboy.mp3
+For Him,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,15/10/2015,C:\Users\COLLECTION\forhim.mp3
+Suburbia,Blue Neighbourhood,Troye Sivan,Troye Sivan,Indie Pop,28/10/2015,C:\Users\COLLECTION\suburbia.mp3
+I Like Me Better,I Met You When I Was 18,Lauv,Ari Leff,Electropop,19/5/2017,C:\Users\COLLECTION\ilikemebetter.mp3
+Paris In the Rain,I Met You When I Was 18,Lauv,Ari Leff,Pop,17/11/2017,C:\Users\COLLECTION\parisintherain.mp3
+Comfortable,I Met You When I Was 18,Lauv,Ari Leff,Electropop,20/10/2017,C:\Users\COLLECTION\comfortable.mp3
+Paranoid,I Met You When I Was 18,Lauv,Ari Leff,Pop,24/5/2018,C:\Users\COLLECTION\paranoid.mp3
+The Other,I Met You When I Was 18,Lauv,Ari Leff,Pop,27/4/2017,C:\Users\COLLECTION\theother.mp3
+Reforget,I Met You When I Was 18,Lauv,Ari Leff,Pop,24/11/2015,C:\Users\COLLECTION\reforget.mp3
+The Story Never Ends,I Met You When I Was 18,Lauv,Ari Leff,Pop,20/10/2017,C:\Users\COLLECTION\thestoryneverends.mp3
+Enemies,I Met You When I Was 18,Lauv,Ari Leff,Pop,31/5/2018,C:\Users\COLLECTION\enemies.mp3
+Getting Over You,I Met You When I Was 18,Lauv,Ari Leff,Pop,14/2/2018,C:\Users\COLLECTION\gettingoveryou.mp3
+Never Not,I Met You When I Was 18,Lauv,Ari Leff,Pop,31/5/2018,C:\Users\COLLECTION\nevernot.mp3
+Addicted to a Memory,True Colors,Bahari,Anton Zaslavski,EDM,14/4/2015,C:\Users\COLLECTION\addictedtoamemory.mp3
+I Want You to Know,True Colors,Selena Gomez,Anton Zaslavski,EDM,23/2/2015,C:\Users\COLLECTION\iwantyoutoknow.mp3
+Beautiful Now,True Colors,Jon Bellion,Anton Zaslavski,EDM,13/5/2015,C:\Users\COLLECTION\beautifulnow.mp3
+Transmission,True Colors,X Ambassadors,Anton Zaslavski,EDM,14/4/2015,C:\Users\COLLECTION\transmission.mp3
+Done with Love,True Colors,Jacob Luttrell,Anton Zaslavski,EDM,4/8/2015,C:\Users\COLLECTION\donewithlove.mp3
+True Colors,True Colors,Tim James,Anton Zaslavski,EDM,15/5/2015,C:\Users\COLLECTION\truecolors.mp3
+Into the Fire,True Colors,Julia Michaels,Anton Zaslavski,EDM,15/5/2015,C:\Users\COLLECTION\intothefire.mp3
+Papercut,True Colors,Troye Sivan,Anton Zaslavski,EDM,17/7/2015,C:\Users\COLLECTION\papercut.mp3
+Bumble Bee,True Colors,Botnek,Anton Zaslavski,EDM,10/7/2015,C:\Users\COLLECTION\bumblebee.mp3
+Daisy,True Colors,Julia Michaels,Anton Zaslavski,EDM,23/5/2015,C:\Users\COLLECTION\daisy.mp3
+The Ringer,Kamikaze,Eminem,Ray Fraser,Hip Hop,31/8/2018,C:\Users\COLLECTION\theringer.mp3
+Greatest,Kamikaze,Eminem,Jordan Carter,Hip Hop,31/8/2018,C:\Users\COLLECTION\greatest.mp3
+Lucky You,Kamikaze,Eminem,Marshall Mathers,Hip Hop,30/11/2018,C:\Users\COLLECTION\luckyyou.mp3
+Paul,Kamikaze,Eminem,Paul Rosenberg,Hip Hop,30/11/2018,C:\Users\COLLECTION\paul.mp3
+Normal,Kamikaze,Eminem,Erik Bodin,Hip Hop,30/11/2018,C:\Users\COLLECTION\normal.mp3
+Stepping Stone,Kamikaze,Eminem,Mathers,Hip Hop,30/11/2018,C:\Users\COLLECTION\steppingstone.mp3
+Not Alike,Kamikaze,Eminem,Brytavious,Hip Hop,31/8/2018,C:\Users\COLLECTION\notalike.mp3
+Nice Guy,Kamikaze,Eminem,Fred Ball,Hip Hop,31/8/2018,C:\Users\COLLECTION\niceguy.mp3
+Good Guy,Kamikaze,Eminem,Norio Aono,Hip Hop,31/8/2018,C:\Users\COLLECTION\goodguy.mp3
+Venom,Kamikaze,Eminem,Mathers,Hip Hop,21/9/2018,C:\Users\COLLECTION\venom.mp3
